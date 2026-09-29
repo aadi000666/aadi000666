@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 I'm currently working on Siya AI, a virtual assistant featuring voice commands, gesture control, and 3D modeling. 👯 I'm looking to collaborate on open-source MERN stack applications or AI-driven projects, 🤝 and looking for help with optimizing deep learning models and advanced 3D rendering. 🌱 I'm currently learning advanced AI architecture and refining full-stack development patterns to scale my projects. 💬 Ask me about Python, Java, PHP, React.js, Node.js, or how to build AI integrations. ⚡ Fun fact: I practice boxing to keep my reflexes sharp, both in the ring and while debugging code!
+MY PORTFOLIO LINK IS HERE : - https://aadi2131.netlify.app/
 
 
 # 💻 Tech Stack:
